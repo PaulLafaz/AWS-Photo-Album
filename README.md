@@ -13,7 +13,7 @@ Few important things worth noting are:
 * The photos the user uploaded were stored on an **AWS S3** Bucket.
 * The photo details were stored in a **AWS RDS** Database.
 * The data table population was achieved using **PHP MyAdmin**.
-* There was no CSS or Javascripet implemented in the website.
+* There was no CSS or Javascript implemented in the website.
 
 Here are some photos for you to look:
 
