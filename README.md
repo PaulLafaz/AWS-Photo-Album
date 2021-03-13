@@ -9,10 +9,10 @@ photos of their choice.
 
 Few important things worth noting are:
 
-* The website was hosted on an *AWS EC2* instance using Apache HTTP Server (which was installed in the insatnce).
-* The photos the user uploaded were stored on an *AWS S3* Bucket.
-* The photo details were stored in a *AWS RDS* Database.
-* The data table population was achieved using *PHP MyAdmin*.
+* The website was hosted on an **AWS EC2** instance using Apache HTTP Server (which was installed in the insatnce).
+* The photos the user uploaded were stored on an **AWS S3** Bucket.
+* The photo details were stored in a **AWS RDS** Database.
+* The data table population was achieved using **PHP MyAdmin**.
 * There was no CSS or Javascripet implemented in the website.
 
 Here are some photos for you to look:
