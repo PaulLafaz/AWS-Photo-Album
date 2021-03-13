@@ -1,4 +1,4 @@
-# AWS-Photo-Album
+# AWS Photo Album
 
 This repository contains code from my photo album website I created whilst studying 
 Cloud Achitecture at Swinburne University.
@@ -17,4 +17,6 @@ Few important things worth noting are:
 
 Here are some photos for you to look:
 
+
+### Upload Page
 
