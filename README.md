@@ -18,5 +18,11 @@ Few important things worth noting are:
 Here are some photos for you to look:
 
 
-### Upload Page
+## Upload Page
+<img src="https://github.com/PaulLafaz/AWS-Photo-Album/blob/main/images/Uploading_Page.PNG">
 
+## Search Page
+<img src="https://github.com/PaulLafaz/AWS-Photo-Album/blob/main/images/Search_Page.PNG">
+
+## Search Result Page
+<img src="https://github.com/PaulLafaz/AWS-Photo-Album/blob/main/images/Search_Results.PNG">
